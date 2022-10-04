@@ -1,0 +1,3 @@
+﻿  Encryption.cpp
+E:\Projects\Encryption\Encryption.cpp(39,7): warning C4101: 'ch': unreferenced local variable
+  Encryption.vcxproj -> E:\Projects\Encryption\Debug\Encryption.exe
